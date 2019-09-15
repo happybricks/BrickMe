@@ -1,6 +1,6 @@
 ## Welcome to Happy Bricks!!!
 
-we are a bunch of 10 year olds competing in Lego League 2019. We are from Carrollton, Texas and we are as goofy as they come!!!
+We are a bunch of 10 year olds competing in Lego League 2019. We are from Lewisville, Texas and we are as goofy as they come!!!
 Wish us luck!
 
 ### Team
