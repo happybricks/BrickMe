@@ -4,12 +4,14 @@ We are a bunch of 10 year olds competing in Lego League 2019. We are from Lewisv
 Wish us luck!
 
 ### Team
+
+- Aditi Kallu
 - Akshata Poduri
 - Jia Kanaujia
 - Maneet Parkari
 - Reya Raghavan
 - Shubh Cherry
-- Aditi Kallu
+
 
 ### Coaches
 
