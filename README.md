@@ -9,6 +9,7 @@ Wish us luck!
 - Maneet Parkari
 - Reya Raghavan
 - Shubh Cherry
+- Aditi Kallu
 
 ### Coaches
 
